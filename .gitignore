@@ -1,0 +1,10 @@
+*.nc
+*.pdf
+*.png
+*.err
+*.out
+*.h5
+*.hdf5
+
+.ipynb_checkpoints/
+.DS_Store
